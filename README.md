@@ -116,11 +116,15 @@ End-to-end data analytics project with interactive dashboard.
 
 ---
 
+
 # 📫 Connect With Me
 
 GitHub:  
 https://github.com/premnadh
 
+
+Email:  
+gajulapremnadh123@gmail.com
 ---
 
 ⭐ Thanks for visiting my profile!
