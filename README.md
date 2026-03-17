@@ -100,13 +100,11 @@ End-to-end data analytics project with interactive dashboard.
 ---
 
 # 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premnadh&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=premnadh)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premnadh&layout=compact)
-
 ---
 
 # 🌱 Currently Learning
