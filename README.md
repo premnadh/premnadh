@@ -97,15 +97,7 @@ End-to-end data analytics project with interactive dashboard.
 ![Streamlit](https://img.shields.io/badge/Streamlit-red)
 ![Git](https://img.shields.io/badge/Git-orange)
 
----
 
-# 📊 GitHub Stats
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premnadh&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premnadh&layout=compact)
----
 
 # 🌱 Currently Learning
 
