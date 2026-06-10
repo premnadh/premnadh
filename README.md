@@ -13,7 +13,7 @@ I build **data-driven systems, AI-powered applications, and scalable backend sol
 # 🚀 About Me
 
 - 🎓 B.Tech in Computer Science (AI & ML)  
-- 🎓 MSc in Data Science & Analytics *(starting Jan 2026)*  
+- 🎓 MSc in Data Science & Analytics  
 - 📍 Currently based in the UK  
 - 🎯 Targeting roles in **Data Science, Machine Learning, and Backend Engineering**  
 - 🌏 Interested in working at **tech companies and Japanese tech companies**  
