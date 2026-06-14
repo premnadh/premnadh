@@ -1,122 +1,148 @@
 # Hi, I'm Prem Nadh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=premnadh&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=premnadh\&color=blue)
 
-💻 Computer Science Engineer  
-📊 Aspiring Data Scientist / Machine Learning Engineer  
-⚙️ Backend Developer  
+💻 Computer Science Engineer
+⚙️ Backend & Full Stack Developer
+☁️ Cloud & Data Systems Enthusiast
 
-I build **data-driven systems, AI-powered applications, and scalable backend solutions**.
+I build **scalable backend services, cloud-ready applications, and data-driven systems with a focus on real-world engineering.**
 
 ---
 
 # 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (AI & ML)  
-- 🎓 MSc in Data Science & Analytics  
-- 📍 Currently based in the UK  
-- 🎯 Targeting roles in **Data Science, Machine Learning, and Backend Engineering**  
-- 🌏 Interested in working at **tech companies and Japanese tech companies**  
-- 🇯🇵 Japanese Level: **JLPT N3**
+* 🎓 B.Tech in Computer Science (AI & ML)
+* 🎓 Incoming MSc in Data Science & Analytics
+* 🎯 Interested in **Backend Engineering, Full Stack Development, Cloud Systems, and Data-driven Applications**
+* 🌏 Interested in building technology for global users and pursuing engineering opportunities in Japan
+* 🇯🇵 Japanese Level: **JLPT N3**
 
 I enjoy working on projects that combine:
 
-- Machine Learning  
-- Backend Systems  
-- Real-world problem solving  
+* Backend Engineering
+* Full Stack Development
+* Recommendation Systems
+* Real-world Problem Solving
 
 ---
 
-# 🧠 What I’m Focused On
+# 🧠 What I'm Focused On
 
-- Building **production-style ML systems**
-- Designing **scalable backend architectures**
-- Developing **recommendation systems**
-- Creating **data-driven dashboards**
+* Building production-style full stack applications
+* Designing scalable backend architectures
+* Cloud deployment and infrastructure fundamentals
+* Recommendation systems and intelligent applications
+* Distributed data workflows
 
 ---
 
 # 🏆 Featured Projects
 
 ## 🛒 Smart Marketplace Engine
+
 AI-powered backend system built with FastAPI and PostgreSQL.
 
-- JWT authentication  
-- Marketplace APIs  
-- AI recommendation system  
-- Scalable architecture  
+### Features
 
-🔗 https://github.com/premnadh/smart-marketplace-engine
+* JWT Authentication
+* Marketplace APIs
+* AI Recommendation System
+* Scalable Backend Architecture
+
+🔗 [Smart Marketplace Engine](https://github.com/premnadh/smart-marketplace-engine)
 
 ---
 
 ## 🛍️ Marketplace Recommendation Engine
-Hybrid recommendation system combining collaborative + content-based filtering.
 
-- TF-IDF + Cosine Similarity  
-- SVD Matrix Factorization  
-- Hybrid ranking system  
+Hybrid recommendation system combining collaborative and content-based filtering.
 
-🔗 https://github.com/premnadh/marketplace-recommendation-engine
+### Features
+
+* TF-IDF + Cosine Similarity
+* SVD Matrix Factorization
+* Hybrid Ranking System
+
+🔗 [Marketplace Recommendation Engine](https://github.com/premnadh/marketplace-recommendation-engine)
 
 ---
 
 ## 🏠 UK House Price Analysis
-End-to-end data analytics project with interactive dashboard.
 
-- Data cleaning & EDA  
-- Feature engineering  
-- Streamlit dashboard  
+End-to-end analytics project with interactive dashboard.
 
-🔗 https://github.com/premnadh/uk-house-price-analysis
+### Features
+
+* Data Cleaning & EDA
+* Feature Engineering
+* Streamlit Dashboard
+
+🔗 [UK House Price Analysis](https://github.com/premnadh/uk-house-price-analysis)
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+## Languages
 
-### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-green)
-![REST API](https://img.shields.io/badge/REST-API-blue)
-![JWT](https://img.shields.io/badge/JWT-Auth-orange)
+* Python
+* SQL
+* Java
+* JavaScript
+* TypeScript *(Learning)*
 
-### Machine Learning & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-purple)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange)
-![NumPy](https://img.shields.io/badge/NumPy-blue)
+## Backend
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+* FastAPI
+* REST APIs
+* JWT Authentication
 
-### Tools & Frameworks
-![Docker](https://img.shields.io/badge/Docker-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-red)
-![Git](https://img.shields.io/badge/Git-orange)
+## Data & Machine Learning
 
+* Pandas
+* NumPy
+* Scikit-learn
+* NetworkX
 
+## Databases
 
-# 🌱 Currently Learning
+* PostgreSQL
+* BigQuery
 
-- Advanced Machine Learning  
-- Recommendation systems at scale  
-- Backend system design  
-- Data engineering pipelines  
+## Cloud & Infrastructure
+
+* Docker
+* Linux
+* Git
+* GitHub
+* AWS *(Learning)*
+
+## Frontend
+
+* React *(Learning)*
+* Streamlit
 
 ---
 
+# 🌱 Currently Learning
+
+* React + TypeScript
+* Cloud Deployment
+* DevOps Practices
+* Scalable Backend Systems
+* Recommendation Systems at Scale
+
+---
 
 # 📫 Connect With Me
 
-GitHub:  
+GitHub:
 https://github.com/premnadh
 
+Email:
+[gajulapremnadh123@gmail.com](mailto:gajulapremnadh123@gmail.com)
 
-Email:  
-gajulapremnadh123@gmail.com
 ---
 
 ⭐ Thanks for visiting my profile!
