@@ -1,147 +1,93 @@
 # Hi, I'm Prem Nadh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=premnadh\&color=blue)
-
-💻 Computer Science Engineer
+🤖 AI Engineer (GenAI & LLM reliability)
 ⚙️ Backend & Full Stack Developer
-☁️ Cloud & Data Systems Enthusiast
+🎓 MSc Data Science & Analytics student, University of Hertfordshire
 
-I build **scalable backend services, cloud-ready applications, and data-driven systems with a focus on real-world engineering.**
+I build AI applications that work reliably in production, from retrieval and APIs to deployment and monitoring.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-* 🎓 B.Tech in Computer Science (AI & ML)
-* 🎓 Incoming MSc in Data Science & Analytics
-* 🎯 Interested in **Backend Engineering, Full Stack Development, Cloud Systems, and Data-driven Applications**
+* 🎓 B.Tech in Computer Science (AI & Machine Learning), SRM University AP
+* 🎓 MSc in Data Science & Analytics (with Placement), University of Hertfordshire
+* 🧑‍💻 Former Technical Lead (CTO) at an early-stage startup: took a product from prototype to production
 * 🌏 Interested in building technology for global users and pursuing engineering opportunities in Japan
-* 🇯🇵 Japanese Level: **JLPT N3**
-
-I enjoy working on projects that combine:
-
-* Backend Engineering
-* Full Stack Development
-* Recommendation Systems
-* Real-world Problem Solving
+* 🇯🇵 Japanese: **JLPT N3**
 
 ---
 
-# 🧠 What I'm Focused On
+## 🧠 What I'm Focused On
 
-* Building production-style full stack applications
-* Designing scalable backend architectures
-* Cloud deployment and infrastructure fundamentals
-* Recommendation systems and intelligent applications
-* Distributed data workflows
+* Building reliable LLM applications: hallucinations, API failures, cascading failures
+* RAG, semantic search and recommendation systems
+* Backend architecture, cloud deployment and monitoring
+* Evaluating AI systems with data, not guesswork
 
 ---
 
-# 🏆 Featured Projects
+## 🏆 Featured Projects
 
-## 🛒 Smart Marketplace Engine
+### 🛒 AI Product Recommendation Assistant
 
-AI-powered backend system built with FastAPI and PostgreSQL.
+End-to-end GenAI app that turns natural-language shopping requests into ranked, explained product recommendations.
 
-### Features
-
-* JWT Authentication
-* Marketplace APIs
-* AI Recommendation System
-* Scalable Backend Architecture
+* RAG and semantic search with LangChain/LangGraph, OpenAI and pgvector
+* FastAPI backend, React/TypeScript frontend with conversation memory
+* Caching, authentication, Docker deployment on AWS with monitoring
 
 🔗 [Smart Marketplace Engine](https://github.com/premnadh/smart-marketplace-engine)
 
----
+### 🛍️ Marketplace Recommendation Engine
 
-## 🛍️ Marketplace Recommendation Engine
+Hybrid recommender combining collaborative and content-based filtering.
 
-Hybrid recommendation system combining collaborative and content-based filtering.
-
-### Features
-
-* TF-IDF + Cosine Similarity
-* SVD Matrix Factorization
-* Hybrid Ranking System
+* TF-IDF + cosine similarity, SVD matrix factorization
+* Hybrid ranking system
 
 🔗 [Marketplace Recommendation Engine](https://github.com/premnadh/marketplace-recommendation-engine)
 
----
+### 🏠 UK House Price Analysis
 
-## 🏠 UK House Price Analysis
+End-to-end analytics project with an interactive dashboard.
 
-End-to-end analytics project with interactive dashboard.
-
-### Features
-
-* Data Cleaning & EDA
-* Feature Engineering
-* Streamlit Dashboard
+* Data cleaning, EDA and feature engineering
+* Streamlit dashboard
 
 🔗 [UK House Price Analysis](https://github.com/premnadh/uk-house-price-analysis)
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+**Languages:** Python · SQL · Java · Go · TypeScript · JavaScript
 
-* Python
-* SQL
-* Java
-* JavaScript
-* TypeScript *(Learning)*
+**AI / ML:** LangChain · LangGraph · OpenAI API · pgvector · scikit-learn · PyTorch · TensorFlow
 
-## Backend
+**Backend:** FastAPI · REST APIs · Microservices · JWT Authentication
 
-* FastAPI
-* REST APIs
-* JWT Authentication
+**Data:** PostgreSQL · Redis · BigQuery · Pandas · NumPy
 
-## Data & Machine Learning
+**Frontend:** React · TypeScript · Streamlit
 
-* Pandas
-* NumPy
-* Scikit-learn
-* NetworkX
-
-## Databases
-
-* PostgreSQL
-* BigQuery
-
-## Cloud & Infrastructure
-
-* Docker
-* Linux
-* Git
-* GitHub
-* AWS *(Learning)*
-
-## Frontend
-
-* React *(Learning)*
-* Streamlit
+**Cloud & DevOps:** Docker · Kubernetes · AWS · Azure · GCP · Linux · Git
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-* React + TypeScript
-* Cloud Deployment
-* DevOps Practices
-* Scalable Backend Systems
-* Recommendation Systems at Scale
+* Evaluating RAG systems (retrieval accuracy, faithfulness)
+* Scaling AI applications in production
+* Deeper cloud and DevOps practices
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-GitHub:
-https://github.com/premnadh
+GitHub: https://github.com/premnadh
 
-Email:
-[gajulapremnadh123@gmail.com](mailto:gajulapremnadh123@gmail.com)
+Email: [premnadh22@gmail.com](mailto:premnadh22@gmail.com)
 
 ---
 
